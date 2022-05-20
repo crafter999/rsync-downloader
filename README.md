@@ -1,5 +1,5 @@
 ## rsync-downloader
-Rsync downloader script with simple stupid progress for **Mac** and **Linux**.
+Rsync downloader script with simple stupid progress indicator for **Mac** and **Linux**.
 
 *Disclaimer: There are 2 separate files because commands work differently between Mac and Linux.*
 
